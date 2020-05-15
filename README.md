@@ -1,2 +1,5 @@
 # Wrangle-and-Analyze-Data
 Using Python and its libraries, you will gather data from a variety of sources and in a variety of formats, assess its quality and tidiness, then clean it. This is called data wrangling.
+The dataset that you will be wrangling (and analyzing and visualizing) is the tweet archive of Twitter user @dog_rates, also known as WeRateDogs.
+Your goal: wrangle WeRateDogs Twitter data to create interesting and trustworthy analyses and visualizations.
+
